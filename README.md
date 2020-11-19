@@ -9,8 +9,9 @@ The link to the webpage is:
 <a href="https://github.com/suziestephen/Homework1_1911"><Homework1_1911></a>
 
 Usage:
-Below is a screenshot of the reuslting webpage
-<id>"sample-image"<img src="./assets/images/sample.png" alt="Required Work"></id>
+Below is a screenshot of the resulting webpage
+![sample](https://user-images.githubusercontent.com/74234842/99658175-3b757c80-2ab3-11eb-96bb-5c5e2b7c0407.png)
+
 
 More Information:
 
